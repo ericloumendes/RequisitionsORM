@@ -1,0 +1,14 @@
+.ProdTitle{
+    text-align: center;
+}
+
+input{
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border-color: rgba(0, 0, 0, 0);
+    transition: 0.4s;
+}
+
+input:hover{
+    background-color: rgb(222, 222, 222);
+}
